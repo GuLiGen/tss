@@ -52,4 +52,8 @@ public class TssSearchIndex {
         }
         indexReader.close();
     }
+    @Test
+    public void m1(){
+
+    }
 }
